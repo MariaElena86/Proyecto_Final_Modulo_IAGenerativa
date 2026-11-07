@@ -23,8 +23,6 @@ Proyecto Final/
 ├── app.py                       # App Streamlit
 ├── agent_virtual_ml.ipynb         # Notebook principal con el agente
 ├── README.md
-├── .env                         # Variables de entorno (API key)
-├── requirements.txt             # Dependencias
 ├── data/
 │   ├── documents/               # PDFs del curso
 │   └── chroma/                  # Base de datos vectorial (generada)
