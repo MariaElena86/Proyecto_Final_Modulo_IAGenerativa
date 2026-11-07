@@ -85,9 +85,11 @@ decisiones de diseño:
 
 ## Descripción de la Interfaz Streamlit (`app.py`)
 - La carga de embeddings/retrieverse inicializa la  primera vez que se consulta, para no bloquear la apertura de la interfaz.
+  
 **Panel izquierdo:** 
   - Preguntas sugeridas en forma de botones, que puedes pulsar y se adiciona al chat
   - Métricas: Modelo, Consultas, # Documentos y Chunks.
+    
 **Panel derecho:**
   - Contiene título, chat con historial y tiempo de respuesta por mensaje y entrada de pregunta.
 
