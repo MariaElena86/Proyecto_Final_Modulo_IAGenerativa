@@ -13,7 +13,7 @@ Optimización y Explicabilidad, Sistemas de Recomendación (7 PDFs, ~180 página
   (locales, se ha utilizado este modelo por exceder las cuotas del consumo de la API de Google).
 - Base de conocimiento vectorial: ChromaDB (persistente en `data/chroma`)
 - Framework de agente: LangGraph (sobre LangChain)
-- Entorno de experimentación: Jupyter Notebook (`proyecto_agent.ipynb`)
+- Entorno de experimentación: Jupyter Notebook (`agent_virtual_ml.ipynb`)
 - Interfaz web: Streamlit (`app.py`)
 
 ## Estructura del proyecto
