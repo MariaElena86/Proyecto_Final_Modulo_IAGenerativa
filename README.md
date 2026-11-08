@@ -1,6 +1,7 @@
 # Tutor Virtual de Machine Learning 
 **Autor:** María Elena Carralero
-URL del VIDEO: https://drive.google.com/file/d/1fSpsUm2wiLD0_8PoTwJm1z51ieZ6kHmr/view?usp=sharing
+
+**URL del video**: https://drive.google.com/file/d/1fSpsUm2wiLD0_8PoTwJm1z51ieZ6kHmr/view?usp=sharing
 
 Agente experto en **Machine Learning** que responde preguntas sobre los contenidos dado en el modulo de ML que incluye:
 - Fundamentos de ML, Feature Engineering, Aprendizaje Supervisado/No Supervisado, Series Temporales,
